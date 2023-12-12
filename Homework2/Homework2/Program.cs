@@ -13,6 +13,9 @@ namespace HomeWork2
             string userInput = Console.ReadLine();
             Console.WriteLine("Output: " + userInput);
 
+
+            Console.WriteLine("I love C#");
+
             Console.ReadKey();
         }
     }
